@@ -13,7 +13,7 @@ import org.testng.annotations.AfterSuite;
 public class NewTest {
   @Test
   public void f() {
-		System.out.println("Annotations test1 @Test");
+		System.out.println("GITAnnotations test1 @Test");
   }
   @BeforeMethod
   public void beforeMethod() {
